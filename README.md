@@ -1,1 +1,1 @@
-imagens/barrel.png
+!imagens/materials/barrel.png
